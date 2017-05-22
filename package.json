@@ -12,5 +12,13 @@
     "mongodb": "^2.2.26"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MassimoSporchia/freecodecamp-urlshortener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MassimoSporchia/freecodecamp-urlshortener/issues"
+  },
+  "homepage": "https://github.com/MassimoSporchia/freecodecamp-urlshortener#readme",
   "description": ""
 }
